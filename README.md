@@ -1,2 +1,2 @@
 # ctfs-archive
-archive problems &amp; writeup
+archive problems &amp; writeups
